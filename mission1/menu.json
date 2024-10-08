@@ -1,0 +1,72 @@
+[
+  {
+    "category": "coffee",
+    "img": "./images/coffee/americano.jpg",
+    "name": "아메리카노",
+    "price": "4,500원",
+    "description": "깊고 진한 에스프레소의 풍미를 부드럽게 즐길 수 있는 아메리카노. 고소한 원두의 향이 물을 만나며 더 길게 이어져, 깔끔한 마무리와 함께 하루의 여유를 선사합니다."
+  },
+  {
+    "category": "coffee",
+    "img": "./images/coffee/latte.jpg",
+    "name": "카페 라떼",
+    "price": "5,000원",
+    "description": "진한 에스프레소와 부드러운 스팀 밀크가 조화롭게 어우러진 카페 라떼. 은은한 고소함과 부드러운 크림감이 입안 가득 퍼져, 따뜻한 여유를 선사하는 음료입니다."
+  },
+  {
+    "category": "coffee",
+    "img": "./images/coffee/green tea latte.jpg",
+    "name": "녹차 라떼",
+    "price": "5,000원",
+    "description": "고급 말차의 깊은 풍미와 부드러운 우유가 만나 조화를 이루는 녹차 라떼. 은은한 단맛과 깔끔한 쌉싸름함이 어우러져, 자연의 싱그러움을 한 잔에 담았습니다."
+  },
+  {
+    "category": "coffee",
+    "img": "./images/coffee/affogato.jpg",
+    "name": "아포가토",
+    "price": "6,000원",
+    "description": "진한 에스프레소와 부드러운 바닐라 아이스크림이 만나 완성되는 아포가토. 따뜻한 커피의 쌉싸름함과 아이스크림의 달콤함이 입안에서 어우러지며, 특별한 디저트 경험을 선사합니다."
+  },
+  {
+    "category": "breakfast",
+    "img": "./images/breakfast/toast.jpg",
+    "name": "아보카도 에그 토스트",
+    "price": "9,500원",
+    "description": "부드러운 아보카도와 촉촉한 반숙 계란이 바삭한 바게트 위에 올라간 클래식 브런치. 상큼한 토마토와 신선한 허브가 더해져 건강하면서도 가벼운 한 끼를 완성합니다."
+  },
+  {
+    "category": "breakfast",
+    "img": "./images/breakfast/croqueMonsieur.jpg",
+    "name": "베이컨 & 치즈 크로크무슈",
+    "price": "10,000원",
+    "description": "바삭한 바게트 속에 녹아든 치즈와 짭조름한 베이컨, 그리고 크리미한 베샤멜 소스가 어우러진 프랑스식 그릴 샌드위치. 겉은 바삭하고 속은 부드러워, 든든한 브런치로 제격입니다."
+  },
+  {
+    "category": "breakfast",
+    "img": "./images/breakfast/greek.jpg",
+    "name": "그릭 요거트 볼",
+    "price": "8,000원",
+    "description": "신선한 그릭 요거트 위에 다양한 제철 과일, 꿀, 그리고 고소한 그래놀라를 듬뿍 얹은 브런치. 가볍고 상큼하면서도 영양이 가득해 하루를 건강하게 시작할 수 있습니다."
+  },
+  {
+    "category": "lunch",
+    "img": "./images/lunch/pasta.jpg",
+    "name": "바질 페스토 파스타",
+    "price": "11,000원",
+    "description": "신선한 바질, 고소한 파르메산 치즈, 향긋한 올리브 오일이 어우러져 만든 바질페스토 파스타. 상쾌한 허브 향과 풍부한 감칠맛이 입안 가득 퍼지며, 깔끔하고 산뜻한 맛으로 완성된 이탈리안 클래식입니다."
+  },
+  {
+    "category": "lunch",
+    "img": "./images/lunch/chicken.avif",
+    "name": "치킨 마르살라",
+    "price": "13,000원",
+    "description": "부드러운 닭고기를 마르살라 와인과 버섯으로 졸여낸 이탈리안 정통 요리, 치킨 마르살라. 깊고 풍부한 소스가 고기에 스며들어, 감칠맛과 은은한 와인의 향이 조화롭게 어우러진 특별한 한 접시를 선사합니다."
+  },
+  {
+    "category": "dinner",
+    "img": "./images/dinner/stake.jpg",
+    "name": "스테이크",
+    "price": "32,000원",
+    "description": "최상급 소고기를 정성스럽게 구워내 겉은 바삭하고 속은 육즙 가득 촉촉한 스테이크. 고기의 깊은 풍미를 방울토마토의 상큼함이 더해주어, 풍부한 맛의 조화를 완성합니다. 고급스러운 저녁 식사에 어울리는 품격 있는 한 접시를 만나보세요."
+  }
+]
