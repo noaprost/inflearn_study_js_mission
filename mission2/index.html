@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rock Scissors Paper Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <p class="title">가위 바위 보</p>
+    <div class="info_container">
+      <div class="player info">
+        <p>플레이어</p>
+        <p class="player_score">0</p>
+      </div>
+      <div class="computer info">
+        <p>컴퓨터</p>
+        <p class="computer_score">0</p>
+      </div>
+    </div>
+    <div class="play">
+      <p class="choice">선택하기</p>
+      <p>남은 횟수 : <span class="play_count">10</span></p>
+      <div class="btn_container">
+        <button id="0">가위</button>
+        <button id="1">바위</button>
+        <button id="2">보</button>
+      </div>
+      <p class="play_result"></p>
+    </div>
+    <div class="end hidden">
+      <p class="end_comment">게임 종료!</p>
+      <p class="end_result"></p>
+      <button class="replay">다시 시작</button>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
