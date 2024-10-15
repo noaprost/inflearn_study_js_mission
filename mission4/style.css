@@ -74,9 +74,22 @@ body {
   font-weight: 600;
 }
 
-.hidden {
+.hidden_item {
   border: none;
   outline: none;
   background: none;
   color: white;
+}
+
+.status_message {
+  background-color: rgb(34, 154, 34);
+  width: 80%;
+  margin: 0 auto;
+  padding: 8px;
+  color: white;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
 }
