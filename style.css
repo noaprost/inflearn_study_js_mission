@@ -1,0 +1,163 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 20px;
+  padding: 20px;
+  height: 100vh;
+}
+
+.sub_title {
+  color: dimgray;
+}
+
+.username_input {
+  border: 3px solid plum;
+  padding: 12px;
+  width: 50%;
+  outline: none;
+}
+
+#search-button {
+  padding: 12px;
+  border: 3px solid plum;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  padding: 24px 0;
+}
+
+.error_message {
+  background-color: rgb(212, 66, 66);
+  color: white;
+  padding: 16px;
+  border-radius: 4px;
+}
+
+.user_img {
+  width: 21rem;
+  border-radius: 100%;
+}
+
+.view_profile_btn {
+  background-color: plum;
+  text-decoration: none;
+  color: white;
+  width: 340px;
+  padding: 12px 0;
+  border: none;
+  border-radius: 2rem;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+.view_profile_btn:hover {
+  background-color: rgb(218, 126, 218);
+}
+
+.container1 {
+  display: flex;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 6rem;
+}
+
+.tag_container {
+  display: flex;
+}
+
+.public_repos {
+  background-color: plum;
+}
+
+.public_gists {
+  background-color: rgb(119, 237, 119);
+}
+
+.followers {
+  background-color: lightseagreen;
+}
+
+.following {
+  background-color: lightsalmon;
+}
+
+.tag {
+  margin-right: 8px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  color: white;
+}
+
+.info_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 60rem;
+}
+
+.info_container p {
+  border: 1px solid lightgray;
+  padding: 12px 8px;
+  margin: 0;
+  width: 70%;
+}
+
+.user-info {
+  padding: 24px;
+}
+
+.list_container {
+  border: 1px solid lightgray;
+  width: 90%;
+  margin: 0 auto;
+  padding: 8px 44px;
+  display: flex;
+  align-items: center;
+}
+
+.list_tag_container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.repo_name {
+  width: 100%;
+}
+
+.stars {
+  background-color: plum;
+  margin-right: 4px;
+  color: white;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+.watchers {
+  background-color: lightsteelblue;
+  margin-right: 4px;
+  color: white;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+.forks {
+  background-color: lightsalmon;
+  margin-right: 4px;
+  color: white;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+.latest-repo {
+  margin: 24px 0;
+}
